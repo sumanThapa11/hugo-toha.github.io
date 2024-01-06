@@ -11,29 +11,29 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Node JS
+  logo: /images/sections/skills/nodeJs.png
+  summary: "Experienced in backend application development using node js frameworks like Express js, Koa js, and Nest js."
+  url: "https://nodejs.org/en/about"
 
 - name: Go Development
   logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Currently learning and exploring Golang. I'm fascinated by its concurrency models and ability to build cloud, CLIs and web applications."
   url: "https://golang.org/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked mostly with Amazon Web Services(AWS) features like S3, Lambda, SQS, and Cloudwatch."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: PostgreSQL
+  logo: /images/sections/skills/postgresql.png
+  summary: "Experienced in designing and developing relational database systems. Have worked with ORM's like Prisma and Sequelize for database operations."
+  url: "https://postgresql.org/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -41,9 +41,9 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Mostly, use Gitlab."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: MongoDB
+  logo: /images/sections/skills/mongodb.png
+  summary: "Experience in NoSQL db like MongoDB. Used Mongoose library to interact with the database."

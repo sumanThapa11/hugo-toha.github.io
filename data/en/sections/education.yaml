@@ -64,27 +64,27 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+# - name: Higher Secondary School Certificate
+#   icon: fa-university
+#   timeframe: 2010-2012
+#   institution:
+#     name: MST College of Science
+#     url: "#"
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 5
+#     outOf: 5
+#   extracurricularActivities: #(optional)
+#   - In vitae facilisis est, eget porta sem.
+#   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+#   - Duis sed massa feugiat, ornare justo et, aliquam est.
+#   - Pellentesque ut fringilla magna.
+# - name: Secondary School Certificate
+#   icon: fa-school
+#   timeframe: 2005-2010
+#   institution:
+#     name: JK School of Science
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 4.5
+#     outOf: 5
