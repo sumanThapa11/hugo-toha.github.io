@@ -23,9 +23,9 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Developing RESTful APIs using Express js and Nest js frameworks.
+    - Building real-time chat system using socket.io library.
+    - Integarting AWS services like Lambda, SQS, and SNS.
 
   # - designation: Junior Software Engineer
   #   start: Nov 2017
@@ -42,23 +42,23 @@ experiences:
     overview: Provide cyber threat monitoring, detection and incident response services.
   positions:
   - designation: Full-stack Software Engineer
-    start: April 2022
+    start: May 2022
     end: December 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developed scalable microservices using Apollo GraphQL that communicate over gRPC and Kafka.
+    - Implemented Prisma ORM to communicate with PostgreSQL as well as worked with noSQL database like Elasticsearch.
+    - Occasional automation script development as per SIEM requirements.
 
 - company:
-    name: Tech
-    url: "https://www.example.com"
+    name: Level 9 Tech
+    url: "https://level9.tech/"
     location: Kathmandu, Nepal
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Intern
-    start: Jan 2022
-    end: April 2022
+  - designation: Backend Developer Intern
+    start: Aug 2021
+    end: Nov 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Learnt to build applications using Django Rest Framework (DRF) and PostgreSql.
+    - Developed RESTful APIs for learning management system and airlines booking.
+    - Acquired unit testing concepts and performed unit testing on developed APIs.
