@@ -33,7 +33,7 @@ degrees:
   timeframe: 2016-2018
   institution:
     name: Orchid Science College
-    url: "#"
+    url: "https://orchidchitwan.edu.np/"
   grade: #(optional)
     scale: CGPA
     achieved: 3.23
