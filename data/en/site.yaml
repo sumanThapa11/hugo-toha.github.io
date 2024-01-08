@@ -7,7 +7,7 @@ copyright: © 2024 Copyright.
 # However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of Suman Thapa. Enthusiast backend developer from Kathmandu, Nepal
+description: Portfolio and personal blog of Suman Thapa. Enthusiast backend developer from Kathmandu, Nepal. I have experience in JavaScript and Go lang.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Suman's Blog
   type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
+  description: Portfolio and personal blog of Suman Thapa.
+  image: "images/author/suman.png"
   url: https://hugo-toha.github.io
