@@ -10,6 +10,18 @@ section:
   # hideTitle: true
 
 degrees:
+- name: M.SC. Information Technology
+  icon: fa-graduation-cap
+  timeframe: 2024-
+  institution:
+    name: Technische Hochschule Ostwestfalen-Lippe
+    url: "https://www.th-owl.de/en/"
+  
+  #grade: #(optional)
+   # scale: Percentage
+    #achieved: 71.94 (First Class Honours)
+    #outOf: 100
+
 - name: BSc(Hons) - Computing
   icon: fa-graduation-cap
   timeframe: 2019-2022
